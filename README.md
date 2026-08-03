@@ -1,98 +1,107 @@
-<h1 align="center">Hi 👋, I'm Fatima Noman</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Owais</h1>
+
 <h3 align="center">
-✨Agentic AI Engineer | Full-Stack Web Developer✨
+🎨 Professional Graphic Designer | 🎬 Video Editor
 </h3>
 
 <p align="center">
-I love turning <b>Creative Ideas</b> into <b>real, Interactive Applications</b> 🚀  
-Focused on clean logic, modern tools, and continuous learning.
+Creating stunning visuals, engaging videos, and modern brand identities with creativity and precision.
 </p>
-
-<img align="right" alt="Lady Coding" width="380" src="https://github.com/user-attachments/assets/0a627dd5-c9e7-41fd-8404-2f9e70b8517e"/>
-
-
-### 🌸 About Me
-- 💻 Passionate about **Full-Stack Development**
-- 🤖 Exploring the Future with **Agentic AI**
-- 📈 Believe in **learning by Building & Improving every day**
-- 🌱 Constantly upgrading my **Skills through Real Projects**
-
----
-
-### 📚 Currently Learning
-🧠 Specification‑Driven Development (clear contracts, fewer surprises
-
-🤖 Agentic AI (Agents, Context, Tools, Guardrails, Agent SDKs and OpenClaw
-
-🌐 Modern Full‑Stack Practices (Next.js, React, FastAPI, REST/JSON APIs
-
----
-
-### 🛠️ Languages & Tools I Work With
-- 🐍 **Python & FastAPI**
-- 🧠 **OpenAI SDK / Agent ecosystems**
-- 🧩 **Context and state management for AI Workflows**
-- ✍️ **Prompt Engineering & Agent design**
-- 🌐 **HTML, CSS, TypeScript, Next.js**
-- 🗄️ **Databases REST APIs, JSON, and modern backend patterns**
-
----
-
-### 💬 Ask Me About
-
-- 🌐 Full-Stack Web Development (Frontend, Backend & APIs)
-- 🐍 Python Programming & Backend Development
-- 🤖 Agentic AI, OpenAI SDK & AI Agent Development
-- ⚙️ Building AI-Powered Applications, Automation & Agentic AI Projects
-
----
-
-### 📫 How to Reach Me
-
-📧 **Email:** **fatimahnoman452@gmail.com**
-
-🌐 **Portfolio:** [myportfolio-git-main-fatima-nomans-projects.vercel.app](https://myportfolio-git-main-fatima-nomans-projects.vercel.app/)
-
-🐙 **GitHub:** [github.com/Fatimahnoman](https://github.com/Fatimahnoman)
-
-✖️ **X (Twitter):** [x.com/FatimahBuildsAI](https://x.com/FatimahBuildsAI)
-
-📸 **Instagram:** [instagram.com/fatimah_builds_ai](https://instagram.com/fatimah_builds_ai/)
-
-📘 **Facebook:** [facebook.com/fatimah.noman452](https://www.facebook.com/fatimah.noman452)
-
-
----
-<h3 align="left">🤝 Connect with Me</h3>
-
-<p align="left">
-  <!-- Gmail -->
-  <a href="mailto:fatimahnoman452@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
-         width="45" height="35" alt="gmail logo"/>
-  </a>
-
-  <!-- Twitter / X -->
-  <a href="https://x.com/noman62987" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"
-         width="45" height="35" alt="twitter logo"/>
-  </a>
-
-  <!-- Instagram -->
-  <a href="https://instagram.com/fatimah_builds_ai/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
-         width="45" height="35" alt="instagram logo"/>
-  </a>
-
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/fatimah.noman452" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg"
-         width="45" height="35" alt="facebook logo"/>
-  </a>
-</p>
-
----
 
 <p align="center">
-✨ Thanks for visiting my profile — feel free to explore my repositories and follow my coding journey! 🌱💻
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Graphic+Designer;Professional+Video+Editor;Adobe+Photoshop+Expert;Adobe+Illustrator+Designer;Adobe+Premiere+Pro+Editor" />
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+🎨 Professional **Graphic Designer**
+
+🎬 Professional **Video Editor**
+
+💼 **6+ Years of Experience**
+
+🚀 Successfully Completed **100+ Projects**
+
+🌍 Helping Brands & Content Creators Build a Strong Visual Identity
+
+💡 Passionate about Creativity, Quality & Client Satisfaction
+
+---
+
+## 🛠️ Tools & Software
+
+- 🎨 Adobe Photoshop
+- ✏️ Adobe Illustrator
+- 🎬 Adobe Premiere Pro
+
+---
+
+## 💼 Services
+
+✨ Logo Design
+
+✨ Brand Identity Design
+
+✨ YouTube Thumbnail Design
+
+✨ Social Media Posts
+
+✨ Banner Design
+
+✨ Flyer & Poster Design
+
+✨ Business Card Design
+
+✨ Professional Video Editing
+
+✨ Reels & Shorts Editing
+
+---
+
+## 🌐 Portfolio & Socials
+
+🎨 **Behance**
+> https://www.behance.net/owaismowais15
+
+💼 **LinkedIn**
+> https://www.linkedin.com/in/mo-designer-70432b284
+
+📷 **Instagram**
+> https://www.instagram.com/modesigner01
+
+📘 **Facebook**
+> https://www.facebook.com/profile.php?id=61569883071152
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://www.behance.net/owaismowais15">
+<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mo-designer-70432b284">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/modesigner01">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=61569883071152">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<h3 align="center">✨ Turning Ideas Into Stunning Visuals ✨</h3>
+
+<p align="center">
+Thanks for visiting my profile ❤️<br>
+Don't forget to ⭐ my repositories.
+</p>
+```
